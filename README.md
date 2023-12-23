@@ -1,9 +1,9 @@
-<h1 align="center">Hi There, I'm Chandu Reddy👋</h1>
+<h1>Hi There, I'm Chandu Reddy👋</h1>
 - 🔭 I’m currently working on [PropFlip](https://app.propflip.io/)
 
 - 🌱 I’m currently learning **Nextjs & HTML/CSS**
 
-- 👨‍💻 All of my projects are available at [https://thereddycr.github.io/my-portfolio/](https://thereddycr.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://thereddycr.github.io/my-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
