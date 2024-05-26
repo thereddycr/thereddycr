@@ -1,8 +1,8 @@
 Hi There, I'm Chandu Reddy ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
-* 🚀  I'm currently working on [PropFlip](http://app.propflip.io/)
-* 🧠  I'm learning Nextjs & HTML/CSS
+* 🚀  I'm currently working on [BytePad](https://dev.bytepad.com/bytepad/login)
+* 🧠  I'm learning Nodejs, Nextjs & MySQL
 * 🖥️  See my portfolio at [MyPortfolio](http://thereddycr.github.io/my-portfolio/)
 * ✉️  You can contact me at [chandrakanthreddysurikanti@gmail.com](mailto:chandrakanthreddysurikanti@gmail.com)
 * 🌍  I'm based in Hyderabad
