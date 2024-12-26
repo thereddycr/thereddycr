@@ -2,7 +2,7 @@ Hi There, I'm Chandu Reddy ![](https://user-images.githubusercontent.com/1835055
 =====================================================================================================================================
 
 * 🚀  I'm currently working on [BytePad](https://dev.bytepad.com/bytepad/login)
-* 🧠  I'm learning Nodejs, Nextjs & MySQL
+* 🧠  I'm developing with React, React Native, Next.js, MUI, Typescript, Javascript, Nodejs, MongoDB, MySQL & more.
 * 🖥️  See my portfolio at [MyPortfolio](http://thereddycr.github.io/my-portfolio/)
 * ✉️  You can contact me at [chandrakanthreddysurikanti@gmail.com](mailto:chandrakanthreddysurikanti@gmail.com)
 * 🌍  I'm based in Hyderabad
